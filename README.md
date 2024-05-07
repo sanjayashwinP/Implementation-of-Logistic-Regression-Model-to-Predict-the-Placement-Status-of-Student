@@ -76,32 +76,33 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
+### Opening File:
+![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/2ad40d29-1252-46dd-afcc-0b248b89f418)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/43114fa8-03cf-430f-82cb-a4176b3e929b)
+### Droping File:
+![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/fa1f63ff-cee7-41bc-a45b-09fa16a968d0)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/aa042a8b-c886-427d-9154-8fbd85229e43)
+### Duplicated():
+![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/3151cfa1-22e1-4582-8d2d-c1348ee755b5)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/f5cf572c-1ffd-4f07-b9da-faf26e8c3277)
+### Label Encoding:
+![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/58f9d71a-ee8b-4a7b-b6ce-4f1a49837751)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/49c5f707-9220-49cb-bdea-e0612d38d93a)
+### Spliting x,y:
+![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/7ada83e6-9e0a-4b07-a799-46bd8dfc2704)
+![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/986283f3-28c7-4b2d-bea6-aee10bdfedbe)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/81b97d9b-9c5f-4dfe-964a-6538816d414c)
+### Prediction Score
+![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/bd32fa36-1d2a-441d-8f6d-5185846f1cb9)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/2d48a8ce-a439-4b1a-a851-094c9f365fcf)
+### Testing accuracy
+![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/904ce3b8-975a-467f-91b0-eca42bcd451d)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/995954e4-d166-4636-b57c-27f41a93538c)
+### Classification Report
+![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/899227a0-9539-42d0-bdf1-2edef822cbd3)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/ed2d2ed0-2fa1-4639-99e3-48a551694f57)
-
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/dc5ff3ee-6c88-4b40-9729-89c786612682)
-
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/c0f560a8-1b86-4e58-96ca-c263e1f496fc)
-
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/67669994-02b0-493d-bcb7-fda9ae0ec62c)
-
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/45d41c1d-146b-469d-a424-0453c98badc3)
-
-![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/7663f995-a7e6-4ee8-b07c-614c8070f18f)
+### Testing Model:
+![image](https://github.com/sanjayashwinP/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/147473265/427b0181-5312-4cf5-84b7-dbbe07d07195)
 
 ## RESULT:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
